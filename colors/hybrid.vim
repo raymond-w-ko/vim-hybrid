@@ -389,5 +389,4 @@ hi! link diffAdded Special
 " }}}
 
 " rko changes (CSS Style)
-hi MatchParen guifg=#00ff00 guibg=bg gui=none
 hi Cursor     guifg=bg guibg=#00e800 gui=none
